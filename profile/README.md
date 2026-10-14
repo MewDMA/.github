@@ -24,10 +24,6 @@ Free app for your second PC. Works with any 35T, 75T or 100T card, not just ours
 
 ---
 
-<div align="center">
-
-Need help? Open a ticket in our <a href="https://discord.gg/mewdma">Discord</a> or ask on the <a href="https://mewdma.net/forum">forum</a>.
-
 </div>
 
 ### [MewCapture](https://github.com/MewDMA/MewCapture)
@@ -38,3 +34,7 @@ Free app to record or stream your game with your overlay on it, no capture card.
 <a href="https://mewdma.net/guides/getting-started-with-mewcapture"><img src="https://img.shields.io/badge/Guide-Get_started-a78bfa?style=for-the-badge&labelColor=0a0a12" alt="Get started"></a>
 
 ---
+
+<div align="center">
+
+Need help? Open a ticket in our <a href="https://discord.gg/mewdma">Discord</a> or ask on the <a href="https://mewdma.net/forum">forum</a>.
