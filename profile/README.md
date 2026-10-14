@@ -35,17 +35,6 @@ Free app to record or stream your game with your overlay on it, no capture card.
 
 ---
 
-</div>
-
-### [MewCapture](https://github.com/MewDMA/MewCapture)
-
-Free app to record or stream your game with your overlay on it, no capture card. The main PC sends the game, the second PC adds your overlay, webcam and scenes, then records, streams or clips it. Your overlay never touches the main PC.
-
-<a href="https://github.com/MewDMA/MewCapture/releases/latest"><img src="https://img.shields.io/badge/Download-MewCapture-f472b6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0a12" alt="Download MewCapture"></a>
-<a href="https://mewdma.net/guides/getting-started-with-mewcapture"><img src="https://img.shields.io/badge/Guide-Get_started-a78bfa?style=for-the-badge&labelColor=0a0a12" alt="Get started"></a>
-
----
-
 <div align="center">
 
 Need help? Open a ticket in our <a href="https://discord.gg/mewdma">Discord</a> or ask on the <a href="https://mewdma.net/forum">forum</a>.
